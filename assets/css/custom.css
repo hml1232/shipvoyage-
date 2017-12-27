@@ -1,0 +1,138 @@
+body {
+     width: 800px;
+     margin: 0 auto;
+     padding: 10px;
+     background-color: #e6e6e6;
+     display: center;
+}
+.jumbotron {
+  height: 320px;
+  width: 100%;
+  background-color: #94b2e0;
+}
+.basicinfo{
+  background-color: #94b2e0;
+}
+.img {
+    display: center;
+}
+p {
+  background-color: #94b2e0;
+  height:50px;
+  margin-top: -50px;
+  text-align: center;
+   font-family: 'Passion One', cursive;
+   font-size: 20px;
+}
+#logo {
+  height: 200px;
+  text-align: center;
+  animation-duration: 2s;
+  animation-delay: 2s;
+ }
+h1 {
+    text-align: center;
+    text
+    font-family: 'Alfa Slab One', cursive;
+    margin: 1px;
+}
+h2 {
+  font-size: 27px;
+ font-family: 'Passion One', cursive;
+  text-align: center;
+}
+.new-tab-opener {
+  display: none;
+}
+input {
+  width: 200px;
+}
+form {
+    height: 50px;
+    width: 100%;
+}
+#track {
+    display: center;
+}
+#TN1 {
+  margin-top: 20px;
+    text-align:center;
+    height: 20px;
+}
+.company{
+border-top-left-radius: 50% 50%;
+border-top-right-radius: 50% 50%;
+border-bottom-right-radius: 50% 50%;
+border-bottom-left-radius: 50% 50%;
+height: 170px;
+width: 170px;
+}
+#shipper
+{
+  padding:20px;
+  margin-top:55px;
+  text-align:center;
+  font-family: 'Alfa Slab One', cursive;
+}
+#shipDiv{
+  text-align: center;
+  margin: 1px;
+  margin-top:15px;
+  padding:10px;
+}
+#shipLink{
+  text-align: center;
+font-family: 'Alfa Slab One', cursive;
+    margin: 1px;
+  margin-top:10px;
+}
+.post {
+    -moz-box-shadow:inset 0px 1px 0px 0px #80ff80;
+    -webkit-box-shadow:inset 0px 1px 0px 0px #80ff80;
+    box-shadow:inset 0px 1px 0px 0px #80ff80;
+    background:#80ff80;
+    background-color:#80ff80;
+    -moz-border-radius:6px;
+    -webkit-border-radius:6px;
+    border-radius:6px;
+    border:1px solid #80ff80;
+    display:inline-block;
+    cursor:pointer;
+    color:black;
+    font-family:Arial;
+    font-size:15px;
+    font-weight:bold;
+    padding:6px 24px;
+    text-decoration:none;
+    text-shadow:0px 1px 0px #80ff80;
+}
+
+/*#images{
+	display: inline-block;
+  float: left;
+
+}
+
+#image1{
+
+	float: left;
+	width: 170px;
+  height: 170px;
+}
+#image2 {
+
+	float: left;
+	width: 170px;
+	height: 170px;
+}
+#image3 {
+
+	float: right;
+	width: 170px;
+  height: 170px;
+}
+#image4 {
+float: right;
+height: 170px;
+width: 170px;
+}*/
