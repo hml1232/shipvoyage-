@@ -8,5 +8,5 @@ A web app that eliminates the issues that come along with tracking multiple pack
 ![alt text](./assets/images/home.png)
 
 #### Track Packages
-![alt text](./assets/images/track.png)
+![alt text](./assets/images/tracking.png)
 
